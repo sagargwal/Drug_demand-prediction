@@ -1,2 +1,2 @@
 # Drug_demand-prediction
-this a analysis i did in a hackathon hosted by HCL
+this is a analysis I did in a hackathon hosted by HCL
