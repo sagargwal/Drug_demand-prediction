@@ -3,7 +3,34 @@ This is a analysis I did in a hackathon hosted by HCL
 # HCL Hackathon
 
 ## 📌 Project Overview
-No description available.
+📊 Predicting Drug Demand with Time Series Forecasting & NLP! 💊📉
+How can we predict drug demand more accurately? At the HCL Hackathon, I developed a time series forecasting model enhanced with Natural Language Processing (NLP) techniques to analyze market sentiment, helping optimize pharmaceutical supply chains and prevent shortages. 🚀
+
+🔍 What We Did
+📌 Data Cleaning & Preprocessing:
+
+Handled missing values, outliers, and ensured stationarity for reliable forecasting.
+Applied differencing and seasonal decomposition to identify trends and seasonality.
+📌 Feature Engineering & NLP Integration:
+
+Extracted time-dependent features like lag variables, moving averages, and trend indicators.
+Used NLP-based sentiment analysis on customer reviews, social media discussions, and market reports to capture external demand drivers.
+Converted text-based insights into quantitative sentiment scores to enhance forecasting models.
+📌 Model Selection & Forecasting:
+
+Applied traditional time series models: ARIMA, SARIMA, and Exponential Smoothing.
+Used machine learning algorithms: XGBoost and Random Forest Regressor for capturing complex patterns.
+Integrated sentiment analysis features into regression-based forecasting models to improve predictions.
+📌 Model Evaluation & Insights:
+
+Assessed performance using Mean Squared Error (MSE) and RMSE.
+Identified correlation between sentiment trends and drug demand fluctuations.
+Developed interactive visualizations for stakeholders to understand demand trends.
+🏆 Key Takeaways
+✅ Combining time series forecasting with NLP improves demand prediction accuracy.
+✅ Market sentiment (customer reviews, news, and discussions) influences pharmaceutical demand.
+✅ Feature engineering (lag values, moving averages, and text-derived features) plays a crucial role in forecasting.
+✅ ML models like XGBoost outperform traditional ARIMA in certain cases when additional features are incorporated.
 
 ## 🚀 Getting Started
 
